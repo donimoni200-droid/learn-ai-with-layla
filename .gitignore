@@ -68,3 +68,6 @@ Caddyfile
 .env
 db/*.db
 db/custom.db
+/scripts/
+/worklog.md
+/.railwayignore
